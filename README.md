@@ -1,6 +1,6 @@
 # 👋 Hey, I’m UduakOkonah
 
-Welcome to my space on the web! I’m a passionate frontend developer and student of Software Development at BYU-Idaho, constantly exploring the ever-evolving world of tech.
+Welcome to my space on the web! I’m a passionate frontend developer and student of Electeical Electronics Engineering - UNICROSS and Software Development at BYU-Idaho, constantly exploring the ever-evolving world of tech.
 
 ## 👀 I’m interested in:
 - Building clean, responsive, accessible web experiences

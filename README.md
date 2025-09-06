@@ -1,6 +1,6 @@
 # 👋 Hey, I’m UduakOkonah
 
-Welcome to my space on the web! I’m a passionate frontend developer and student of Electeical Electronics Engineering - UNICROSS and Software Development at BYU-Idaho, constantly exploring the ever-evolving world of tech.
+A Software Development Student at BYU–Pathway Worldwide
 
 ## 👀 I’m interested in:
 - Building clean, responsive, accessible web experiences
@@ -21,7 +21,7 @@ Welcome to my space on the web! I’m a passionate frontend developer and studen
 - Anything community-driven that lets us learn and grow together
 
 ## 📫 How to reach me:
-- X (formerly Twitter): [@uduakokonah]([https://x.com/uduakokonah](https://x.com/Uduakobong15904)
+- X (formerly Twitter): [@uduakokonah](https://x.com/Uduakobong15904)
 - LinkedIn: [Uduak Okonah]([https://linkedin.com/in/uduakokonah](https://www.linkedin.com/in/uduakobong-okonah-b5bb96252/))
 - Email:udokonah@gmail.com
 ## 😄 Pronouns: She/Her

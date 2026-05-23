@@ -1,77 +1,70 @@
-# Hi, I’m Uduakobong Okonah
+# Uduakobong Okonah
 
-Software Development Student | BYU–Idaho / BYU–Pathway Worldwide  
-Frontend Developer | JavaScript & React Enthusiast
+Hello, GitHub!
 
+I’m a Software Development student at Brigham Young University–Idaho / BYU–Pathway Worldwide. I’m interested in building modern, responsive web applications using JavaScript and frontend technologies.
 
 ## About Me
-I am a software development student focused on building clean, responsive, and user-friendly web applications. I enjoy solving real-world problems using JavaScript and modern frontend technologies.
+- Currently studying Software Development (Web Development focus)
+- Interested in frontend development, JavaScript, and UI/UX design
+- Building projects to improve my skills and prepare for real-world software engineering roles
+- Goal is to become a full-stack developer and contribute to impactful software solutions
 
-I am currently building strong foundations in web development through structured learning, personal projects, and collaborative work. My goal is to become a full-stack developer and contribute to impactful software systems.
+## Technologies and Tools
 
+### Proficient in:
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git & GitHub
+- Responsive Web Design
+- DOM Manipulation & Fetch API
 
-## Skills & Technologies
-- HTML5, CSS3, JavaScript (ES6+)  
-- Responsive Web Design  
-- DOM Manipulation & Fetch API  
-- Git & GitHub  
-- ES Modules  
-- React (learning)  
-- Basic Node.js (learning)
+### Currently Learning:
+- React.js
+- Node.js (basics)
+- Advanced JavaScript (Async/Await, ES Modules)
 
-
-## Projects & Work
+## Projects and Work
 
 ### StockPilot App
-- Built a stock tracking system for monitoring market data and trends  
-- Focused on data visualization and real-time updates  
-- Improved understanding of APIs and asynchronous JavaScript  
+- Built a stock tracking system for monitoring market trends
+- Worked with API data and asynchronous JavaScript
+- Focused on data handling and UI responsiveness
 
 ### Sunshine Confectionaries
-- Developed an e-commerce web application concept for a bakery business  
-- Designed product display, UI flow, and user experience structure  
-- Focused on clean UI and responsive layout  
+- Developed a bakery e-commerce web application concept
+- Designed product pages and user interface structure
+- Focused on clean UI and mobile responsiveness
 
 ### NiJafactChecker
-- Built a fact-checking web tool concept for verifying information  
-- Implemented logic for filtering and validating data sources  
-- Strengthened skills in JavaScript logic and data handling  
+- Built a fact-checking web tool concept
+- Implemented logic for validating and filtering information sources
+- Improved JavaScript problem-solving skills
 
 ### Open Space Tech Community
-- Built a student-focused tech community website  
-- Designed responsive layouts and dynamic UI components  
-- Focused on accessibility and clean interface design  
+- Built a student-focused tech community platform
+- Designed responsive layouts and interactive components
+- Focused on accessibility and user experience
 
-## Current Learning Focus
-- Advanced JavaScript (31-day structured challenge)  
-- Async/Await, Fetch API, and ES Modules  
-- GitHub collaboration workflows  
-- Responsive UI design without frameworks  
+## GitHub Statistics
 
-## Collaboration Interests
-- Student productivity tools  
-- Educational web applications  
-- Community-driven tech projects  
-- Frontend UI/UX experiments  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UduakOkonah&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UduakOkonah&layout=compact&theme=tokyonight" />
+</p>
 
-## 📊 GitHub Statistics
+## Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UduakOkonahE&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UduakOkonah&layout=compact&theme=tokyonight)
-
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/uduakobong-okonah-b5bb96252/  
-- GitHub: https://github.com/UduakOkonah
-- X (Twitter): https://x.com/Uduakobong15904  
-- Email: udokonah@gmail.com  
-
+LinkedIn: https://www.linkedin.com/in/uduakobong-okonah-b5bb96252/
+Twitter: https://x.com/Uduakobong15904
+GitHub: https://github.com/UduakOkonah
 
 ## Fun Fact
-I learn by building. Every project I create is part of my journey toward becoming a full-stack developer.
-
+I learn best by building real projects. Every line of code is part of my growth journey.
 
 ## Quote
-> “Consistency builds skill. Skill builds freedom.”
+"Consistency builds skill. Skill builds opportunity."

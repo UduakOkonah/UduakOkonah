@@ -1,34 +1,88 @@
-# 👋 Hey, I’m UduakOkonah
+# 👋 Hi, I’m Uduakobong Okonah
 
-A Software Development Student at BYU–Pathway Worldwide
-
-## 👀 I’m interested in:
-- Building clean, responsive, accessible web experiences
-- JavaScript, ES6+, and everything frontend
-- Open-source collaboration
-- UI/UX design that doesn’t just work but *feels* right
-- Empowering student tech communities (shoutout to UNICROSS)
-
-## Currently Learning:
-- Advanced JavaScript (through a 31-day challenge)
-- DOM Manipulation, Fetch API, ES Modules
-- GitHub project collaboration
-- Real-world responsive design without frameworks
-
-## Looking to collaborate on:
-- Student-focused tech tools
-- Mini web projects that make learning fun and impactful
-- Anything community-driven that lets us learn and grow together
-
-## 📫 How to reach me:
-- X (formerly Twitter): [@uduakokonah](https://x.com/Uduakobong15904)
-- LinkedIn: [Uduak Okonah]([https://linkedin.com/in/uduakokonah](https://www.linkedin.com/in/uduakobong-okonah-b5bb96252/))
-- Email:udokonah@gmail.com
-
-## ⚡ Fun fact:
-I balance my coding grind with vibes from power outages to social media content creation, I keep the hustle real.
+Software Development Student | BYU–Idaho / BYU–Pathway Worldwide  
+Frontend Developer | JavaScript & React Enthusiast
 
 ---
 
-> "Building the future one line of code at a time, powered by pink, persistence, and passion."
+## About Me
+I am a software development student focused on building clean, responsive, and user-friendly web applications. I enjoy solving real-world problems using JavaScript and modern frontend technologies.
 
+I am currently building strong foundations in web development through structured learning, personal projects, and collaborative work. My goal is to become a full-stack developer and contribute to impactful software systems.
+
+---
+
+## Skills & Technologies
+- HTML5, CSS3, JavaScript (ES6+)  
+- Responsive Web Design  
+- DOM Manipulation & Fetch API  
+- Git & GitHub  
+- ES Modules  
+- React (learning)  
+- Basic Node.js (learning)
+
+---
+
+## Projects & Work
+
+### StockPilot App
+- Built a stock tracking system for monitoring market data and trends  
+- Focused on data visualization and real-time updates  
+- Improved understanding of APIs and asynchronous JavaScript  
+
+### Sunshine Confectionaries
+- Developed an e-commerce web application concept for a bakery business  
+- Designed product display, UI flow, and user experience structure  
+- Focused on clean UI and responsive layout  
+
+### NiJafactChecker
+- Built a fact-checking web tool concept for verifying information  
+- Implemented logic for filtering and validating data sources  
+- Strengthened skills in JavaScript logic and data handling  
+
+### Open Space Tech Community
+- Built a student-focused tech community website  
+- Designed responsive layouts and dynamic UI components  
+- Focused on accessibility and clean interface design  
+
+---
+
+## Current Learning Focus
+- Advanced JavaScript (31-day structured challenge)  
+- Async/Await, Fetch API, and ES Modules  
+- GitHub collaboration workflows  
+- Responsive UI design without frameworks  
+
+---
+
+## Collaboration Interests
+- Student productivity tools  
+- Educational web applications  
+- Community-driven tech projects  
+- Frontend UI/UX experiments  
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/uduakobong-okonah-b5bb96252/  
+- GitHub: https://github.com/UduakOkonah
+- X (Twitter): https://x.com/Uduakobong15904  
+- Email: udokonah@gmail.com  
+
+---
+
+## Fun Fact
+I learn by building. Every project I create is part of my journey toward becoming a full-stack developer.
+
+---
+
+## 💡 Quote
+> “Consistency builds skill. Skill builds freedom.”

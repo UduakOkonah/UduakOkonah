@@ -49,13 +49,9 @@ I’m a Software Development student at Brigham Young University–Idaho / BYU�
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UduakOkonah&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UduakOkonah&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UduakOkonah&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=UduakOkonah)
 
 ## Let's Connect
 

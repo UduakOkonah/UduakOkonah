@@ -49,7 +49,10 @@ I’m a Software Development student at Brigham Young University–Idaho / BYU�
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UduakOkonah&show_icons=true)
+![Uduak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UduakOkonah\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=UduakOkonah\&theme=tokyonight)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=UduakOkonah)
 
